@@ -1,4 +1,4 @@
-nombres=["Jona", "Yess", "Ruben", "Julio"]
+nombres=["Jona Anchondo", "Yess Mayorga", "Ruben Acosta", "Julio Jacinto"]
 
 for nombre in nombres:
     
